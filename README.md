@@ -5,7 +5,7 @@ This swift package enables you to use Open3D in your iOS apps.
 ## Installation
 
 ```
-.package(url: "https://github.com/kewlbear/Open3D-iOS.git", .branch("main"))
+.package(url: "https://github.com/palmin/Open3D-iOS.git", .branch("main"))
 ```
 
 ## Usage
